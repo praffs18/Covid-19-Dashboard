@@ -1,7 +1,7 @@
 # Covid-19-Dashboard
 
 # Overview : 
-Noval corona virus outbreak started from Dec 2019, which affects a lot to all the countries. This dashboard shows the total confirmed cases and deaths of all the countries all over the world. 
+Novel corona virus outbreak started from Dec 2019, which affects a lot to all the countries. This dashboard shows the total confirmed cases and deaths of all the countries all over the world. 
 
 # Dataset: 
 This data is mixture of worldometer and WHO covid 19 data. one table is extracted using url link of worldometer and other is excel file. and formed joins between tables The cases are as of 26 April, 2022.
