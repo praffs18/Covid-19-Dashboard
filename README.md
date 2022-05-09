@@ -20,4 +20,5 @@ Power BI desktop
 
 # Glimpse of Dashboard:
 
-![Screenshot (157)](https://user-images.githubusercontent.com/65829391/167369203-51df9c6e-a1a4-4eb1-b7bc-b115466df8c7.png)
+![Screenshot (158)](https://user-images.githubusercontent.com/65829391/167505823-f3fcdfd3-a66c-43ee-8a91-072f5b12f744.png)
+
