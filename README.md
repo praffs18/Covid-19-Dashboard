@@ -16,7 +16,7 @@ This dashboard is having,
 5.	Daily new cases by continent wise
 
 # Tool Used:
-Power BI desktop  
+Power BI desktop.  
 
 # Glimpse of Dashboard:
 
